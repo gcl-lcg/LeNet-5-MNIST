@@ -25,7 +25,7 @@ python train.py
 
 ## 参数调整
 可以通过修改`train.py`中的参数来调整训练：
-- `epochs`: 训练轮数（默认20）
+- `epochs`: 训练轮数（默认10）
 - `batch_size`: 批次大小（默认128）
 
 ## 结果
